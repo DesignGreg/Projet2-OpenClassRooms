@@ -1,0 +1,10 @@
+Base de données : agenceimmo
+Identifiants : root / root
+Wordpress : Développeur / openclassrooms
+
+Directrice
+Password: directrice
+Collaborateur
+Password: collaborateur
+Collaboratrice
+Password: collaboratrice
