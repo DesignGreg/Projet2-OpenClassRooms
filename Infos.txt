@@ -1,7 +1,14 @@
+URL : https://app-1539704851.000webhostapp.com/
+
+Developpeur / openclassrooms
+
+
+Installation Wordpress :
 Base de données : agenceimmo
 Identifiants : root / root
 Wordpress : Développeur / openclassrooms
 
+Comptes client:
 Directrice
 Password: directrice
 Collaborateur
